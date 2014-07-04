@@ -1,3 +1,3 @@
 module Main where
-	main :: IO ()
-	main = undefined
+    main :: IO ()
+    main = putStrLn "Ok"
